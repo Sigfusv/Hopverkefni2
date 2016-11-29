@@ -2,7 +2,9 @@ Byrjar að gera file inná desktop.
 Hægri smella á file-ið og ýtið á "GIT BASH".
 Inná GIT BASH skrifiði inn eftirfarandi commands... 
 
+
 git clone https://github.com/VSH24/VSH1-hopverkefni.git
+git pull (Byrja á þessu)
 git status
 cd "file nafnið"
 git status
