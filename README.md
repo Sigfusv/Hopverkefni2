@@ -19,3 +19,7 @@ Leikurinn hefur þróast gríðalega og ég er mjög hissa hversu vel þeir eru 
 
 # VI.	    Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn?
 Ég get sagt það að leikurinn er frekar að deyja út... Þótt að þessi leikur hafi verið mjög gamall var hann búinn að reyna að halda notendum þannig að þeir fari ekki með því að alltaf að update-a leikinn og svoleiðis. Þessi aldursmunur er það sem segjir frekar mikið að 32.9 ára gamlir notendur er með aldurs meðaltalið. Þessi leikur er mjög gamall síðan hann var gerður út árið 2003 og það er erfitt að fá nýja kynslóðirnar til að prófa leikinn því hann er nú þegar alltof flókinn og er með mjög mikinn tímaeyðslu. Þeir eru oft búinnir að vinna Game of the Year en það fer að koma að því að þessi leikur myndi verða gleymt. Nema ef að þeir komi með nýja hugmynd með leikinn sem getur bjargað leiknum.
+
+
+#Heimasíðan okkar
+http://tsuts.tskoli.is/2t/0108952279/index.html
