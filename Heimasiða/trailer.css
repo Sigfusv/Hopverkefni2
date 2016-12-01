@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Doppio+One|Nova+Square|Russo+One|Trocchi');
+body{
+	background-image: url("bkg2.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;}
+/*font*/
+	.Rus{font-family: 'Russo One', sans-serif;}
+	.nov{font-family: 'Nova Square', cursive;}
+	.Dop{font-family: 'Doppio One', sans-serif;}
+	.Tro{font-family: 'Trocchi', serif;}
+/*base*/
+	.klemmi{background:#e2e2e2;margin-left: 60px;margin-right: 60px;margin-top: 30px;margin-bottom: 6px}
+	.Borkli{background:#e2e2e2;margin-left: 60px;margin-right: 60px;}
+/*Margin og pödd*/
+.mop{margin-top: 0px}
+.mob{margin-bottom: 0px}
+.magler{margin-left: 56px;margin-right: 53px;}
+	.pop{padding-top: 10px}
+/*text Utility*/
+	.TS2{font-size: 80px; text-align: center;}
+	.ta1{text-align: center;}
+	.linkfix{ 
+		text-decoration: none; 
+		color: inherit;
+		display: block;
+		height: 70px;
+	}
+	.cent{text-align: center;}
+/*utility*/
+	.inlinn{display: inline;}
+	.dflex{
+ 	display:flex;}
+ 			
+	 .flex{
+ 	flex:1 1 0;
+ 	border:1px solid grey;background: rgba(20,67,100, 0.3);;
+ 	height: 50px;
+ 	margin-right: 3px;
+ 	opacity: 1;
+ 	margin-top: 12.1em;
+ 	color: white;}
+
+
+	.boksi{box-shadow:
+		 -3px 3px 1px 1px #e2e2e2,
+		 3px -3px 1px 1px #e2e2e2,
+		 -3px -3px 1px 1px  #e2e2e2,
+		 3px 3px 1px 1px #e2e2e2}
+	.sloppi:hover{opacity: 0.8;height: 80px; color: cyan}
+	.possi{position:absolute;top:15em;z-index:-1;}
+    .H1{height: 1000px}
+    .op{background: rgba(255,255,255, 0.0)}
+    .mid{
+    	margin-left: 140px;
+    }
